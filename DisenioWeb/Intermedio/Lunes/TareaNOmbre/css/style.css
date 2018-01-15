@@ -1,0 +1,148 @@
+.letraJ1{
+	width: 100px;
+	height: 30px;
+	background-color: #1F999F;
+}
+
+.letraJ2{
+	width: 35px;
+	height: 100px;
+	background-color: #1F999F;
+	transform: translate(33px,0px);
+}
+
+.letraJ3{
+	width: 50px;
+	height: 30px;
+	background-color: #1F999F;
+	transform: translate(0px,-30px);
+}
+
+.letraO1{
+	width: 100px;
+	height: 100px;
+	background-color: #1F999F;
+	border-radius: 50%;
+	transform: translate(90px,-127px);
+}
+
+.letraO2{
+	width: 50px;
+	height: 50px;
+	background-color: white;
+	border-radius: 50%;
+	transform: translate(115px,-202px);
+}
+
+.letraN1{
+	width: 30px;
+	height: 100px;
+	background-color: #1F999F;
+	transform: translate(200px,-277px);
+}
+
+
+.letraN2{
+	width:70px;
+	height: 30px;
+	background-color: #1F999F;
+	transform: translate(230px,-360px);
+}
+
+.letraN3{
+	width: 30px;
+	height: 70px;
+	background-color: #1F999F;
+	transform: translate(270px,-377px);
+}
+
+.letraA1{
+	width: 100px;
+	height: 100px;
+	background-color: #1F999F;
+	border-radius: 50%;
+	transform: translate(310px,-475px);
+
+}
+
+.letraA2{
+	width: 50px;
+	height: 50px;
+	background-color: white;
+	border-radius: 50%;
+	transform: translate(335px,-550px);
+
+}
+
+.letraA3{
+	width: 20px;
+	height: 90px;
+	background-color: #1F999F;
+	transform: translate(395px,-619px);
+
+}
+
+.letraT1{
+	width: 70px;
+	height: 18px;
+	background-color: #1F999F;
+	transform: translate(425px,-675px);
+
+
+}
+
+.letraT2{
+	width: 20px;
+	height: 90px;
+	background-color: #1F999F;
+	transform: translate(450px,-727px);
+
+}
+
+.letraA12{
+	width: 100px;
+	height: 100px;
+	background-color: #1F999F;
+	border-radius: 50%;
+	transform: translate(505px,-825px);
+
+}
+
+.letraA22{
+	width: 50px;
+	height: 50px;
+	background-color: white;
+	border-radius: 50%;
+	transform: translate(530px,-899px);
+
+}
+
+.letraA32{
+	width: 20px;
+	height: 90px;
+	background-color: #1F999F;
+	transform: translate(592px,-966px);
+
+}
+
+.letraN12{
+	width: 30px;
+	height: 100px;
+	background-color: #1F999F;
+	transform: translate(620px,-1065px);
+}
+
+
+.letraN22{
+	width:70px;
+	height: 30px;
+	background-color: #1F999F;
+	transform: translate(650px,-1149px);
+}
+
+.letraN32{
+	width: 30px;
+	height: 70px;
+	background-color: #1F999F;
+	transform: translate(690px,-1165px);
+}

@@ -1,0 +1,31 @@
+
+*{
+	font-family: 'Shadows Into Light', cursive;
+
+}
+
+.carousel-item img{
+	height: 500px;
+}
+
+#titulo{
+	text-align: center;
+}
+
+
+#banner{
+	width: 100%;
+	height: auto;
+}
+
+.altura{
+	width: 100%;
+	height: 400px;
+
+}
+
+/*tarea terminar los paquetes b y c
+subir a gitpages y mandar el link
+
+jorgechavez.proteco@gmail.com
+juliocesar.proteco@gmail.com*/

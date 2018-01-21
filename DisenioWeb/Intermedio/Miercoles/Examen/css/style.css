@@ -1,0 +1,10 @@
+div[class|= "col"]{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background: rgba(123,56,23,0.15);
+ 	border: 1px solid rgba(45,99,123,0.20) ;
+}
+
+.row{
+	height: 150px;
+}
